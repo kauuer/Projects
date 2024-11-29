@@ -20,10 +20,11 @@ Bem-vindo ao repositório do **Site Pet**, um projeto desenvolvido para oferecer
 ```
 site-pet/
 ├── index.html         # Página principal
-├── css/
-│   └── styles.css     # Arquivo de estilos
-├── js/
-│   └── script.js      # Scripts de interatividade
+│ 
+├── index.css          # Arquivo de estilos
+│    
+├── index.js           # Scripts de interatividade
+│        
 └── assets/
     ├── images/        # Imagens utilizadas no site
 ```
