@@ -39,6 +39,8 @@ site-pet/
 
 2. Abra o arquivo `index.html` diretamente no navegador ou utilize uma extensão como "Live Server" no VS Code para visualizar localmente.
 
+3. Outra opção é acessando o deploy: https://kauuer.github.io/site-pet/
+
 ## 🎨 Estilo e Design
 
 O projeto utiliza um design intuitivo e amigável, focado em uma paleta de cores suaves e elementos visuais que refletem o universo pet. O layout é totalmente responsivo, garantindo uma boa experiência tanto em dispositivos móveis quanto em desktops.
